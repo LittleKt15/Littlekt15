@@ -5,7 +5,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 </a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7CC41CED&width=435&lines=Hi%2C+I'm+Kyaw+Zin;I'm+from+Burma+(Myanmar);I'm+a+Full+Stack+Developer;Be+Welcome+%F0%9F%98%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7CC41CED&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Kyaw+Zin;I'm+from+Burma+(Myanmar);I'm+a+Full+Stack+Developer;Be+Welcome+%F0%9F%98%81)](https://git.io/typing-svg)
 
 <div align="center">
   <br>

@@ -93,7 +93,7 @@
   
 <div> 
   <p align="center">
-    <a href="https://littlekt15.github.io/personal-portfolio/"><img height="35" width="140" title="littlekt15.github.io/personal-portfolio" src="./img/linkedin.png">
+    <a href="https://littlekt15.github.io/personal-portfolio/"><img height="35" width="120" title="littlekt15.github.io/personal-portfolio" src="./img/linkedin.png">
     </a>
     <a href="https://www.linkedin.com/in/kyaw-zin-9a4891259/"><img height="35" width="140" title="linkedin.com/in/littlekt15" src="./img/Portfolio.png">
     </a>

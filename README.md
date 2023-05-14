@@ -65,7 +65,7 @@
       <img align="center" alt="Logo do Git" height="30" width="40" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
     </a>
     <a href="#">
-      <img align="center" alt="Logo do Github" height="30" width="40" title="Github" src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU=w240-h480">
+      <img align="center" alt="Logo do Github" height="30" width="40" title="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
     </a>
     <a href="#">
       <img align="center" alt="Logo do VsCode" height="30" width="40" title="VsCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">

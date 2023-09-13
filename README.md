@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Kyaw+Zin;I'm+from+Burma+(Myanmar);I'm+a+Full+Stack+Developer;Be+Welcome+%F0%9F%98%81)](https://git.io/typing-svg)
 
-<div align="center">
+<!-- <div align="center">
   <br>
   <a href="#">
     <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=littlekt15&show_icons=true&theme=vue-dark&bg_color=0d1117&border_radius=15&border_color=0d1117&count_private=true"/>
@@ -15,7 +15,7 @@
   <a href="#">
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlekt15&langs_count=5&layout=compact&theme=vue-dark&bg_color=0d1117&border_radius=15&border_color=0d1117"/>
   </a>
-</div> 
+</div>  -->
    
 <br>
 <br>

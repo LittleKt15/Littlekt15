@@ -94,14 +94,14 @@
 <br>
 <br>
   
-<div> 
+<!-- <div> 
   <p align="center">
     <a href="https://www.linkedin.com/in/kyaw-zin-9a4891259/" target="_blank"><img height="35" width="140" title="linkedin.com/in/littlekt15" src="./img/linkedin.png">
     </a>
     <a href="https://littlekt15.github.io/personal-portfolio/" target="_blank"><img height="35" width="100" title="littlekt15.github.io/personal-portfolio" src="./img/Portfolio.png">
     </a>
   </p>
-</div>
+</div> -->
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>

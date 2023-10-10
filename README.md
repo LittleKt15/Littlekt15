@@ -74,7 +74,6 @@
 
 ###
 
-<!-- <img src="https://raw.githubusercontent.com/Littlekt15/Littlekt15/output/snake.svg" alt="Snake animation" /> -->
-![Snake animation](https://github.com/LittleKt15/LittleKt15/blob/outputgithub-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Littlekt15/Littlekt15/blob/output/github-contribution-grid-snake.svg)
 
 ###

@@ -6,9 +6,8 @@
 
 ###
 
-<br />
 <br clear="both">
-<br />
+<br>
 <br>
 <br>
 
@@ -71,6 +70,6 @@
 
 ###
 
-
+![Snake animation](https://github.com/LittleKt15/LittleKt15/blob/output/github-contribution-grid-snake.svg)
 
 ###

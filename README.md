@@ -70,6 +70,7 @@
 ###
 
 <!-- ![Snake animation](https://github.com/LittleKt15/LittleKt15/blob/output/github-contribution-grid-snake.svg) -->
-![snake animation](https://github.com/LittleKt15/LittleKt15/blob/output/github-contribution-grid-snake2.svg)
+<!-- ![snake animation](https://github.com/LittleKt15/LittleKt15/blob/output/github-contribution-grid-snake2.svg) -->
+![](https://raw.githubusercontent.com/LittleKt15/Littlekt15/output/github-contribution-grid-snake.svg)
 
 ###

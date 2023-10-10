@@ -74,6 +74,6 @@
 
 ###
 
-![Snake animation](https://github.com/Littlekt15/Littlekt15/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LittleKt15/LittleKt15/blob/output/github-contribution-grid-snake.svg)
 
 ###

@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Softcomm Technology.<br>🌱 I’m currently learning about SPA (Laravel + Vue).<br>💬 Ask me about my experiences with SPA development using Laravel and Vue.<br>⚡ Fun fact: My job is to work as a coding slave.</p>
+<p align="left">🔥 I’m passionate about building modern web applications using cutting-edge tools and frameworks.<br>🚀 I enjoy exploring new technologies that help me write cleaner, faster, and more efficient code.<br>💡 Fun fact: My job is still being a coding slave — but at least I make it look cool.</p>
 </div>
 
 ###
